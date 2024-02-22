@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "PALO VLACK EMULI PRO PLATA 22/33",
+		"description": "Este palo fue desarrollado con el objetivo de perfeccionar la arrastrada. Su tres características principales harán que este gesto técnico alcance su máximo nivel: Canaleta a los 200mm, curvatura  y mango oval anatómico. Es uno de los palos más rígidos de la línea gracias a su 95% de carbono y fue diseñado para jugadores profesionales y/o experimentados.",
+		"price": "$333.500",
+		"thumbnail": "sin imagen",
+		"code": "product_0011",
+		"stock": "15"
+	},
+	{
+		"id": 2,
+		"title": "Palo Hockey Grays Ac5 Dynabow Micro Carbono 60% Color Negro",
+		"description": "El Palo de Hockey Grays AC5 Dynabow es una herramienta de alta calidad diseñada para jugadores senior que buscan mejorar su juego. Este palo, de color negro, es un producto de la reconocida marca Grays, conocida por su compromiso con la excelencia y la innovación en el mundo del hockey..",
+		"price": "281.600",
+		"thumbnail": "sin imagen",
+		"code": "product_02",
+		"stock": "21"
+	}
+]
